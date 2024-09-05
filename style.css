@@ -1,0 +1,17 @@
+h1{
+    color: red;
+}
+
+.div1 {
+    position: relative;
+    background-color: rgb(39, 177, 219);
+    color: #000000;
+    display: inline-flex;
+  }
+  
+.div2 {
+    position: relative;
+    background-color: #391;
+    color: #000000;
+    display: inline-flex;
+  }
